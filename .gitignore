@@ -1,0 +1,8 @@
+# Ignorar archivos de entorno
+.env
+
+# Ignorar índices de Faiss
+faiss_index/
+
+# Ignorar directorios o archivos relacionados con Context_pdf
+Context_pdf/
